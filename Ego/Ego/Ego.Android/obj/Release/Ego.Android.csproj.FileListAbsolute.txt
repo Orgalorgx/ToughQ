@@ -1,0 +1,237 @@
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Ego.Android.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\com.companyname.Ego.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\com.companyname.Ego-Signed.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Ego.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Ego.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csprojResolveAssemblyReference.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csproj.CoreCompileInputs.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\Ego.Android.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\Ego.Android.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\bin\com.companyname.Ego.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\values\layout\tabbar.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\values\layout\toolbar.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\values\styles.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\funny.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\cancel.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\coins.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\accept.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\background.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\plus.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\minus.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\bred.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\embarassing.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\gross.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\splashscreen.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\no.gif
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\press.gif
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\dunk.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\start.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\dirty.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\rulebreaker.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\res\drawable\dalej.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\R.cs.flag
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\uploadflags.txt
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Refractored.Fab.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Refractored.FabControl.Droid.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Ego.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.Fab.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.FabControl.Droid.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll
+F:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.pdb
+F:\Ego\Ego\Ego.Android\bin\Release\Ego.dll
+F:\Ego\Ego\Ego.Android\bin\Release\Ego.pdb
+F:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csprojResolveAssemblyReference.cache
+F:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csproj.CoreCompileInputs.cache
+F:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.dll
+F:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.pdb
+F:\Ego\Ego\Ego.Android\obj\Release\res\values\layout\tabbar.xml
+F:\Ego\Ego\Ego.Android\obj\Release\res\values\layout\toolbar.xml
+F:\Ego\Ego\Ego.Android\obj\Release\res\values\styles.xml
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\funny.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\cancel.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\coins.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\accept.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\background.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\plus.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\minus.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\bred.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\embarassing.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\gross.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\splashscreen.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable-hdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable-xhdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable-xxhdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\icon.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\no.gif
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\press.gif
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dunk.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\start.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dirty.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\rulebreaker.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dalej.png
+F:\Ego\Ego\Ego.Android\obj\Release\res\drawable\questionmark.png
+F:\Ego\Ego\Ego.Android\obj\Release\R.cs.flag
+F:\Ego\Ego\Ego.Android\obj\Release\uploadflags.txt
+F:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\FormsViewGroup.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.Abstractions.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Refractored.Fab.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Refractored.FabControl.Droid.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Ego.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.Abstractions.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.Fab.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.FabControl.Droid.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Release\ToughQ.ToughQ.apk
+F:\Ego\Ego\Ego.Android\bin\Release\ToughQ.ToughQ-Signed.apk
+F:\Ego\Ego\Ego.Android\obj\Release\android\bin\ToughQ.ToughQ.apk
+E:\Ego\Ego\Ego.Android\bin\Release\com.ToughQ.apk
+E:\Ego\Ego\Ego.Android\bin\Release\com.ToughQ-Signed.apk
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.dll
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.pdb
+E:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csprojResolveAssemblyReference.cache
+E:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.csproj.CoreCompileInputs.cache
+E:\Ego\Ego\Ego.Android\obj\Release\android\bin\com.ToughQ.apk
+E:\Ego\Ego\Ego.Android\obj\Release\res\values\layout\tabbar.xml
+E:\Ego\Ego\Ego.Android\obj\Release\res\values\layout\toolbar.xml
+E:\Ego\Ego\Ego.Android\obj\Release\res\values\styles.xml
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\funny.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\cancel.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\coins.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\accept.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\background.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\plus.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\minus.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\bred.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\embarassing.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\gross.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\splashscreen.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable-hdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable-xhdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable-xxhdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\icon.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\no.gif
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\press.gif
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dunk.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\start.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dirty.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\rulebreaker.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\dalej.png
+E:\Ego\Ego\Ego.Android\obj\Release\res\drawable\questionmark.png
+E:\Ego\Ego\Ego.Android\obj\Release\R.cs.flag
+E:\Ego\Ego\Ego.Android\obj\Release\uploadflags.txt
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\FormsViewGroup.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.Abstractions.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Plugin.Settings.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Refractored.Fab.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Refractored.FabControl.Droid.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Ego.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.Abstractions.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Plugin.Settings.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.Fab.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Refractored.FabControl.Droid.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\ToughQ.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Release\android\assets\ToughQ.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.pdb
+E:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.dll
+E:\Ego\Ego\Ego.Android\obj\Release\Ego.Android.pdb
+E:\Ego\Ego\Ego.Android\bin\Release\Ego.Android.dll
+bin\Release\FormsViewGroup.dll.mdb
+bin\Release\Plugin.Settings.Abstractions.dll.mdb
+bin\Release\Plugin.Settings.dll.mdb
+bin\Release\Refractored.Fab.dll.mdb
+bin\Release\Refractored.FabControl.Droid.dll.mdb
+bin\Release\Xamarin.Forms.Core.dll.mdb
+bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Release\Xamarin.Forms.Xaml.dll.mdb
+bin\Release\FFImageLoading.pdb
+bin\Release\FFImageLoading.Forms.pdb
+bin\Release\FFImageLoading.Forms.Droid.pdb
+bin\Release\FFImageLoading.Platform.pdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\Refractored.FabControl.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Data.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\System.Transactions.pdb
+bin\Release\Mono.Data.Tds.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.IO.Compression.pdb
+bin\Release\System.IO.Compression.FileSystem.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.Web.Services.pdb
+obj\Release\linksrc\Ego.Android.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Plugin.Settings.Abstractions.dll.mdb
+obj\Release\linksrc\Plugin.Settings.dll.mdb
+obj\Release\linksrc\Refractored.Fab.dll.mdb
+obj\Release\linksrc\Refractored.FabControl.Droid.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Ego.pdb
+obj\Release\linksrc\FFImageLoading.pdb
+obj\Release\linksrc\FFImageLoading.Forms.pdb
+obj\Release\linksrc\FFImageLoading.Forms.Droid.pdb
+obj\Release\linksrc\FFImageLoading.Platform.pdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\Refractored.FabControl.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Data.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\System.Transactions.pdb
+obj\Release\linksrc\Mono.Data.Tds.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.IO.Compression.pdb
+obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.Web.Services.pdb

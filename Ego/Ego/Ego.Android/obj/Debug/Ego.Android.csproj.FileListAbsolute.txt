@@ -1,0 +1,252 @@
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.pdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\com.companyname.Ego.apk
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\com.companyname.Ego-Signed.apk
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Ego.dll
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Ego.pdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csprojResolveAssemblyReference.cache
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csproj.CoreCompileInputs.cache
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.dll
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.pdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\bin\com.companyname.Ego.apk
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\layout\tabbar.xml
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\layout\toolbar.xml
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\values\styles.xml
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\drawable\ar.png
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\R.cs.flag
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\uploadflags.txt
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Refractored.Fab.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Refractored.FabControl.Droid.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Ego.Android.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.Fab.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.FabControl.Droid.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\sss\Ego\Ego\Ego.Android\obj\Debug\res\drawable\funny.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csprojResolveAssemblyReference.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\com.companyname.Ego.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\com.companyname.Ego-Signed.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Ego.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Ego.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csproj.CoreCompileInputs.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\bin\com.companyname.Ego.apk
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\values\styles.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\funny.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\cancel.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\coins.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\accept.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\background.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\plus.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\minus.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\bred.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\embarassing.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\gross.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\splashscreen.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\R.cs.flag
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\uploadflags.txt
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\tabbar.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\toolbar.xml
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\no.gif
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\press.gif
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dunk.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\start.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dirty.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\rulebreaker.png
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Refractored.Fab.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Refractored.FabControl.Droid.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Ego.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.Fab.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.FabControl.Droid.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dalej.png
+F:\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll
+F:\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.pdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Ego.dll
+F:\Ego\Ego\Ego.Android\bin\Debug\Ego.pdb
+F:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csprojResolveAssemblyReference.cache
+F:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csproj.CoreCompileInputs.cache
+F:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.dll
+F:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.pdb
+F:\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\tabbar.xml
+F:\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\toolbar.xml
+F:\Ego\Ego\Ego.Android\obj\Debug\res\values\styles.xml
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\funny.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\cancel.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\coins.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\accept.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\background.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\plus.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\minus.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\bred.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\embarassing.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\gross.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\splashscreen.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-hdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xhdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\icon.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\no.gif
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\press.gif
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dunk.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\start.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dirty.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\rulebreaker.png
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dalej.png
+F:\Ego\Ego\Ego.Android\obj\Debug\R.cs.flag
+F:\Ego\Ego\Ego.Android\obj\Debug\uploadflags.txt
+F:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\questionmark.png
+F:\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Refractored.Fab.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Refractored.FabControl.Droid.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Ego.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.Fab.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.FabControl.Droid.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+F:\Ego\Ego\Ego.Android\bin\Debug\ToughQ.ToughQ.apk
+F:\Ego\Ego\Ego.Android\bin\Debug\ToughQ.ToughQ-Signed.apk
+F:\Ego\Ego\Ego.Android\obj\Debug\android\bin\ToughQ.ToughQ.apk
+E:\Ego\Ego\Ego.Android\bin\Debug\Ego.dll
+E:\Ego\Ego\Ego.Android\bin\Debug\Ego.pdb
+E:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csprojResolveAssemblyReference.cache
+E:\Ego\Ego\Ego.Android\obj\Debug\Ego.Android.csproj.CoreCompileInputs.cache
+E:\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\tabbar.xml
+E:\Ego\Ego\Ego.Android\obj\Debug\res\values\layout\toolbar.xml
+E:\Ego\Ego\Ego.Android\obj\Debug\res\values\styles.xml
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\funny.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\cancel.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\coins.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\accept.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\background.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\plus.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\minus.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\bred.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\embarassing.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\gross.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\splashscreen.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\icon.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\no.gif
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\press.gif
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dunk.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\start.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dirty.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\rulebreaker.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\dalej.png
+E:\Ego\Ego\Ego.Android\obj\Debug\res\drawable\questionmark.png
+E:\Ego\Ego\Ego.Android\obj\Debug\R.cs.flag
+E:\Ego\Ego\Ego.Android\obj\Debug\uploadflags.txt
+E:\Ego\Ego\Ego.Android\bin\Debug\Ego.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Plugin.Settings.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Refractored.Fab.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Refractored.FabControl.Droid.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Ego.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.Abstractions.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Plugin.Settings.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.Fab.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Refractored.FabControl.Droid.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Ego\Ego\Ego.Android\bin\Debug\ToughQ.dll
+E:\Ego\Ego\Ego.Android\bin\Debug\ToughQ.pdb
+E:\Ego\Ego\Ego.Android\bin\Debug\com.ToughQ.apk
+E:\Ego\Ego\Ego.Android\bin\Debug\com.ToughQ-Signed.apk
+E:\Ego\Ego\Ego.Android\obj\Debug\ToughQ.dll
+E:\Ego\Ego\Ego.Android\obj\Debug\ToughQ.pdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\bin\com.ToughQ.apk
+E:\Ego\Ego\Ego.Android\bin\Debug\ToughQ.dll.mdb
+E:\Ego\Ego\Ego.Android\obj\Debug\android\assets\ToughQ.dll.mdb
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Plugin.Settings.Abstractions.dll.mdb
+bin\Debug\Plugin.Settings.dll.mdb
+bin\Debug\Refractored.Fab.dll.mdb
+bin\Debug\Refractored.FabControl.Droid.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\ToughQ.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Plugin.Settings.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Settings.dll.mdb
+obj\Debug\linksrc\Refractored.Fab.dll.mdb
+obj\Debug\linksrc\Refractored.FabControl.Droid.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Ego.pdb
+obj\Debug\linksrc\FFImageLoading.pdb
+obj\Debug\linksrc\FFImageLoading.Forms.pdb
+obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+obj\Debug\linksrc\FFImageLoading.Platform.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\Refractored.FabControl.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Web.Services.pdb

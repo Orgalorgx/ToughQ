@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+             xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+             x:Class="Ego.Views.FirstPopupPage"
+             >
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation 
+      PositionIn="Center"
+      PositionOut="Center"
+      ScaleIn="1.2"
+      ScaleOut="0.8"
+      DurationIn="400"
+      DurationOut="300"
+      EasingIn="SinOut"
+      EasingOut="SinIn"
+      HasBackgroundAnimation="True"/>
+    </pages:PopupPage.Animation>
+    <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand" Padding="20, 0">
+        <Frame CornerRadius="10" Padding="0" BackgroundColor="SteelBlue" Opacity="0.9" >
+            <StackLayout Padding="10" Spacing="15">
+                <viewModels:MyLabel Text="Sprawdź jak dobrze znasz przyjaciół !" TextColor="Black" HorizontalTextAlignment="Center" FontSize="30" HorizontalOptions="Center"/>
+                <ScrollView>
+                    <StackLayout Spacing="30">
+                        <viewModels:MyLabel Text="TaughQ to towarzyska gra, przeznaczona dla grup od dwóch osób w wieku od osiemnastego roku życia."
+                                            TextColor="black" Opacity="0.8" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
+                        <StackLayout Spacing="15">
+                            <viewModels:MyLabel Text="* Na początku rozgrywki każdy z graczy wpisuje swoją nazwę, po czym ustalana jest ilość startowych punktów, oraz ilość punktów potrzebnych do zwycięstwa, a także rodzaj pytań."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <viewModels:MyLabel Text="* Następnie pierwszy gracz losuje pytanie i udziela odpowiedzi."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <viewModels:MyLabel Text="* Zaraz po nim odpowiadają po kolei pozostali gracze, jednak mają udzielić takiej odpowiedzi, jakiej na dane pytanie udzieliłaby osoba losująca pytanie."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <viewModels:MyLabel Text="* Gdy wszyscy odpowiedzą, następuje sprawdzenie wyników i rozdanie punktów."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <viewModels:MyLabel Text="* Po naciśnięciu przycisku wskazującego przejście dalej, następuje losowanie pytania przez kolejnego gracza."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <viewModels:MyLabel Text="* Grę wygrywa ta z osób, która pod koniec rozgrywki zbierze liczbę punktów określoną na początku gry."
+                                                TextColor="black" Opacity="0.5" FontSize="15" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Start"/>
+                            <Button Text="SPRAWDŹ SAM  !" TextColor="Black" BackgroundColor="SlateGray"  BorderRadius="30"  Opacity="0.9" Clicked="OnClose"></Button>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+            </StackLayout>
+        </Frame>
+
+    </StackLayout>
+</pages:PopupPage>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+             x:Class="Ego.Views.SettingTokensPage">
+    <Grid>
+
+        <forms:CachedImage Source="background.png"
+                           BitmapOptimizations="True"
+                           Aspect="AspectFill" />
+        <Grid Padding="20" ColumnSpacing="10" RowSpacing="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*" />
+                <RowDefinition Height="0.1*" />
+                <RowDefinition Height="0.7*" />
+                <RowDefinition Height="0.1*" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <StackLayout Orientation="Vertical">
+                    <viewModels:MyLabel Text="TOUGH"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="StartAndExpand"
+                                        FontSize="60"
+                                        HorizontalTextAlignment="Center"
+                                        VerticalTextAlignment="Center"
+                                        x:Name="TittleLabel"
+                                        TextColor="LightGray"
+                                        Opacity="0.8"/>
+                </StackLayout>
+                <viewModels:ImageButton VerticalOptions="StartAndExpand"
+                                        HorizontalOptions="EndAndExpand"
+                                        BitmapOptimizations="True"
+                                        Opacity="0.7"
+                                        Source="questionmark.png">
+                    <forms:CachedImage.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="PopupPage_OnClicked"
+                            NumberOfTapsRequired="1" />
+                    </forms:CachedImage.GestureRecognizers>
+                </viewModels:ImageButton>
+            </Grid>
+            <Grid Grid.Row="1">
+                <StackLayout Orientation="Vertical">
+                    <viewModels:MyLabel Text="QUESTIONS"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        FontSize="30"
+                                        VerticalTextAlignment="Center"
+                                        TextColor="LightGray"
+                                        Opacity="0.7"
+                                        FontAttributes="Bold" />
+                </StackLayout>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <StackLayout Orientation="Vertical" VerticalOptions="StartAndExpand" Spacing="30">
+                    <viewModels:MyLabel Text="Wpisz liczbę punktów startowych :"
+                                        TextColor="LightGray"
+                                        Opacity="0.8"
+                                        FontAttributes="Bold"
+                                        FontSize="15"
+                                        VerticalOptions="CenterAndExpand"
+                                        HorizontalOptions="CenterAndExpand" />
+
+                    <viewModels:MyEntry x:Name="StartTokenEntry"
+                                        Text ="10"
+                                        TextChanged="Ent_TextChanged"
+                                        Keyboard="Numeric"/>
+                
+                <viewModels:MyLabel Text="Wpisz liczbę punktów kończącą grę :"
+                                    TextColor="LightGray"
+                                    Opacity="0.8"
+                                    FontAttributes="Bold"
+                                    FontSize="15"
+                                    VerticalOptions="CenterAndExpand"
+                                    HorizontalOptions="CenterAndExpand" />
+
+                <viewModels:MyEntry x:Name="TokenEntry" 
+                                    Text="20"
+                                    TextChanged="Ent_TextChanged"
+                                    Keyboard="Numeric"/>
+                </StackLayout>
+
+            </Grid>
+            
+
+
+            <Grid Grid.Row="3" >
+                <viewModels:ImageButton x:Name="StartButton"
+                                        BitmapOptimizations="True"
+                                        Source="start.png">
+                    <forms:CachedImage.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="Clicked"
+                            NumberOfTapsRequired="1" />
+                    </forms:CachedImage.GestureRecognizers>
+                </viewModels:ImageButton>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</ContentPage>

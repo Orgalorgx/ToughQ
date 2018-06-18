@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+             x:Class="Ego.YesNoQPage">
+
+    <Grid>
+        <forms:CachedImage Source="background.png"
+                           BitmapOptimizations="True"
+                           Aspect="AspectFill"/>
+        <Grid Padding="10" ColumnSpacing="10" RowSpacing="6">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="0.05*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0">
+                <StackLayout Orientation="Horizontal">
+                    <viewModels:MyLabel Text="Na celowniku :"
+                                        Opacity="0.8"
+                                        FontSize="25"
+                                        FontAttributes="Bold"
+                                        TextColor="LightCyan"/>
+                    <viewModels:MyLabel x:Name="Activeplayer"
+                                        Opacity="0.6"
+                                        FontSize="25"
+                                        FontAttributes="Bold"
+                                        TextColor="LightCyan"
+                                        HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </Grid>
+            
+            <Grid Grid.Row="1">
+                <StackLayout Orientation="Horizontal">
+                    <viewModels:MyLabel Text="Odpowiada gracz :"
+                                        Opacity="0.8"
+                                        FontSize="25"
+                                        FontAttributes="Bold"
+                                        TextColor="LightCyan"/>
+                    <viewModels:MyLabel x:Name="AnsweringPlayer"
+                                        FontSize="25"
+                                        FontAttributes="Bold"
+                                        TextColor="LightCyan"
+                                        HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="2" HorizontalOptions="End">
+                <forms:CachedImage x:Name="Gif2"
+                                   HorizontalOptions="End"
+                                   IsVisible="False"
+                                   Source="press.gif">
+
+                </forms:CachedImage>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Frame OutlineColor="CadetBlue"
+                       Padding="15"
+                       BackgroundColor="LightGray"
+                       HasShadow="True"
+                       Opacity="0.5"
+                       CornerRadius="20">
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="TapGestureRecognizer_OnTappedFrame"
+                            NumberOfTapsRequired="1" />
+                    </Frame.GestureRecognizers>
+                    <StackLayout Orientation="Vertical"
+                                 Opacity="0.9">
+                        <viewModels:MyLabel x:Name="QuestionLabel"
+                                            HorizontalOptions="CenterAndExpand"
+                                            FontAttributes="Bold"
+                                            FontSize="30"
+                                            TextColor="Black"
+                                            VerticalTextAlignment="Center"
+                                            HorizontalTextAlignment="Center"
+                                            VerticalOptions="CenterAndExpand"
+                                            Text=""/>
+                        
+                    </StackLayout>
+                </Frame>
+            </Grid>
+            
+            <Grid Grid.Row="4" >
+               
+                <StackLayout Orientation="Horizontal"
+                             VerticalOptions="StartAndExpand"
+                             x:Name="Stack1">
+                        <Image Source="accept.png"
+                               HorizontalOptions="CenterAndExpand"
+                               Opacity="0.5"
+                               x:Name="yesImage"
+                               ClassId="yes">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                        <Image Source="cancel.png"
+                               HorizontalOptions="CenterAndExpand"
+                               Opacity="0.5"
+                               x:Name="noImage"
+                               ClassId="no">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </StackLayout>
+            </Grid>
+            <Grid Grid.Row="5" >
+                <forms:CachedImage x:Name="Gif1"
+                                   Source="no.gif"/>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                 xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+                 xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+                 x:Class="Ego.MyPopupPage">
+
+    <Grid>
+        <forms:CachedImage Source="background.png"
+                           BitmapOptimizations="True"
+                           Aspect="AspectFill"/>
+
+        <Grid  Padding="30" ColumnSpacing="10" RowSpacing="6" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.2*" />
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="0.2*" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0"></Grid>
+            
+            <Grid Grid.Row="1">
+                <Frame OutlineColor="CadetBlue"
+                       BackgroundColor="LightGray"
+                       HasShadow="True"
+                       Opacity="0.5"
+                       CornerRadius="20">
+                <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" Spacing="20"  >
+                    <viewModels:MyLabel x:Name="timer" 
+                                        TextColor="Black"  
+                                        Text="3"
+                                        FontAttributes="Bold" 
+                                        VerticalOptions="StartAndExpand"
+                                        FontSize="50"
+                                        HorizontalOptions="CenterAndExpand"/>
+                    <viewModels:MyLabel Text="Odpowiada gracz: " 
+                                        TextColor="Black"  
+                                        FontAttributes="Bold" 
+                                        FontSize="20"
+                                        HorizontalOptions="CenterAndExpand"/>
+                    <viewModels:MyLabel Text=" " 
+                                        TextColor=" Black" 
+                                        x:Name="Activeplayer" 
+                                        FontAttributes="Bold" 
+                                        FontSize="40" 
+                                        HorizontalOptions="Center"/>
+                </StackLayout>
+                </Frame>
+            </Grid>
+            
+            <Grid Grid.Row="2"></Grid>
+        </Grid>
+    </Grid>
+</ContentPage>

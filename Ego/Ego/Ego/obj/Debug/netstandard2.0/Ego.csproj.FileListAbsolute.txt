@@ -1,0 +1,63 @@
+F:\sss\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.deps.json
+F:\sss\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.dll
+F:\sss\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.pdb
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csproj.CoreCompileInputs.cache
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.App.xaml.g.cs
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Game.xaml.g.cs
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.MainPage.xaml.g.cs
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.SettingNames.xaml.g.cs
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfoInputs.cache
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfo.cs
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.dll
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.pdb
+F:\sss\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csprojResolveAssemblyReference.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csproj.CoreCompileInputs.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.App.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.ModsPage.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.MyPopupPage.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingNamesPage.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.StatsPage.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.YesNoQPage.xaml.g.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfoInputs.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfo.cs
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.deps.json
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.dll
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.pdb
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csprojResolveAssemblyReference.cache
+C:\Users\Sylwester\Desktop\Ego 1\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingTokensPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csproj.CoreCompileInputs.cache
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.App.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.ModsPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.MyPopupPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingNamesPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingTokensPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.StatsPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.YesNoQPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfoInputs.cache
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfo.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.dll
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.pdb
+F:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.deps.json
+F:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.dll
+F:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.pdb
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.FirstPopupPage.xaml.g.cs
+F:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csprojResolveAssemblyReference.cache
+E:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.deps.json
+E:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.dll
+E:\Ego\Ego\Ego\bin\Debug\netstandard2.0\Ego.pdb
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csprojResolveAssemblyReference.cache
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.csproj.CoreCompileInputs.cache
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.App.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.FirstPopupPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.ModsPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.MyPopupPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingNamesPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.SettingTokensPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.StatsPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.Views.YesNoQPage.xaml.g.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfoInputs.cache
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.AssemblyInfo.cs
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.dll
+E:\Ego\Ego\Ego\obj\Debug\netstandard2.0\Ego.pdb

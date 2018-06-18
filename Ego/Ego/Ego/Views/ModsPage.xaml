@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+             x:Class="Ego.ModsPage">
+    <Grid>
+
+        <forms:CachedImage Source="background.png"
+                           BitmapOptimizations="True"
+                           Aspect="AspectFill">
+
+        </forms:CachedImage>
+        <Grid Padding="20" ColumnSpacing="10" RowSpacing="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*" />
+                <RowDefinition Height="0.45*" />
+                <RowDefinition Height="0.45*" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+                    <viewModels:MyLabel Text="Wybierz rodzaj pytań:" 
+                                        VerticalOptions="CenterAndExpand"
+                                        Opacity="0.8"
+                                        FontSize="30"
+                                        TextColor="LightCyan"/>
+                </StackLayout>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".335*" />
+                    <ColumnDefinition Width=".335*" />
+                    <ColumnDefinition Width=".33*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                           VerticalOptions="CenterAndExpand"
+                                           BitmapOptimizations="True"
+                                           ClassId="Ego.Data.embarassing.txt"
+                                           Source="embarassing.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Wstydliwe"
+                                            HorizontalOptions="CenterAndExpand"
+                                            VerticalOptions="StartAndExpand"
+                                            Opacity="0.8"
+                                            TextColor="LightCyan"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                                VerticalOptions="CenterAndExpand"
+                                                ClassId="Ego.Data.funny.txt"
+                                                BitmapOptimizations="True"
+                                                Source="funny.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                     Tapped="TapGestureRecognizer_OnTapped"
+                                     NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Śmieszne"
+                                            Opacity="0.8"
+                                            HorizontalOptions="CenterAndExpand"
+                                            TextColor="LightCyan"
+                                            VerticalOptions="StartAndExpand"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+
+                </Grid>
+                <Grid Grid.Column="2">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                                VerticalOptions="CenterAndExpand"
+                                                BitmapOptimizations="True"
+                                                ClassId="Ego.Data.Gross.txt"
+                                                Source="gross.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Obrzydliwe"
+                                            Opacity="0.8"
+                                            HorizontalOptions="CenterAndExpand"
+                                            TextColor="LightCyan"
+                                            VerticalOptions="StartAndExpand"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".335*" />
+                    <ColumnDefinition Width=".335*" />
+                    <ColumnDefinition Width=".33*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                                VerticalOptions="CenterAndExpand"
+                                                ClassId="Ego.Data.Drunk.txt"
+                                                BitmapOptimizations="True"
+                                                Opacity="0.9"
+                                                Source="dunk.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Pijackie"
+                                            HorizontalOptions="CenterAndExpand"
+                                            VerticalOptions="StartAndExpand"
+                                            Opacity="0.8"
+                                            TextColor="LightCyan"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                                VerticalOptions="CenterAndExpand"
+                                                ClassId="Ego.Data.Dirty.txt"
+                                                BitmapOptimizations="True"
+                                                Opacity="0.89"
+                                                Source="dirty.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Sprośne"
+                                            Opacity="0.8"
+                                            HorizontalOptions="CenterAndExpand"
+                                            TextColor="LightCyan"
+                                            VerticalOptions="StartAndExpand"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+                </Grid>
+                <Grid Grid.Column="2">
+                    <StackLayout Orientation="Vertical">
+                        <viewModels:ImageButton HorizontalOptions="CenterAndExpand"
+                                                VerticalOptions="CenterAndExpand"
+                                                ClassId="Ego.Data.Rulebreaker.txt"
+                                                BitmapOptimizations="True"
+                                                Opacity="0.9"
+                                                Source="rulebreaker.png">
+                            <forms:CachedImage.GestureRecognizers>
+                                <TapGestureRecognizer
+                                    Tapped="TapGestureRecognizer_OnTapped"
+                                    NumberOfTapsRequired="1" />
+                            </forms:CachedImage.GestureRecognizers>
+                        </viewModels:ImageButton>
+                        <viewModels:MyLabel Text="Poza prawem"
+                                            Opacity="0.8"
+                                            HorizontalOptions="CenterAndExpand"
+                                            TextColor="LightCyan"
+                                            VerticalOptions="StartAndExpand"
+                                            FontAttributes="Bold" />
+                    </StackLayout>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</ContentPage>

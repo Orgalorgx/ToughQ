@@ -1,0 +1,78 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Dares.txt" />
+    <None Remove="Data\Dirty.txt" />
+    <None Remove="Data\Drunk.txt" />
+    <None Remove="Data\Rulebreaker.txt" />
+    <None Remove="Data\TruthQ.txt" />
+    <None Remove="embarassing.txt" />
+    <None Remove="funny.txt" />
+    <None Remove="Gross.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\Dirty.txt" />
+    <EmbeddedResource Include="Data\Drunk.txt" />
+    <EmbeddedResource Include="Data\embarassing.txt" />
+    <EmbeddedResource Include="Data\funny.txt" />
+    <EmbeddedResource Include="Data\Gross.txt" />
+    <EmbeddedResource Include="Data\Rulebreaker.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Refractored.FloatingActionButtonForms" Version="2.1.0" />
+    <PackageReference Include="Rg.Plugins.Popup" Version="1.0.4" />
+    <PackageReference Include="Xamarin.FFImageLoading.Forms" Version="2.3.5" />
+    <PackageReference Include="Xamarin.Forms" Version="2.5.0.121934" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Views\App.xaml.cs">
+      <DependentUpon>*.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\FirstPopupPage.xaml.cs">
+      <DependentUpon>FirstPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\SettingNamesPage.xaml.cs">
+      <DependentUpon>SettingNamesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\StatsPage.xaml.cs">
+      <DependentUpon>StatsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\YesNoQPage.xaml.cs">
+      <DependentUpon>YesNoQPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Views\ModsPage.xaml.cs">
+      <DependentUpon>ModsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\MyPopupPage.xaml.cs">
+      <DependentUpon>MyPopupPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\FirstPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SettingTokensPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\YesNoQPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\MyPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SettingNamesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\StatsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

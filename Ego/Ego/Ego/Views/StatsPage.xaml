@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewModels="clr-namespace:Ego.ViewModels;assembly=Ego"
+             xmlns:converters="clr-namespace:Ego.Converters;assembly=Ego"
+             x:Class="Ego.StatsPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:AddTextConverter x:Key="AddTextConverter"/>
+            <converters:AddTextConverter2 x:Key="AddTextConverter2"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <Grid>
+        <forms:CachedImage Source="background.png"
+                           BitmapOptimizations="True"
+                           Aspect="AspectFill"/>
+        <Grid Padding="10" ColumnSpacing="10" RowSpacing="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*"/>
+                <RowDefinition Height="0.8*"/>
+                <RowDefinition Height="0.15*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <StackLayout Orientation="Vertical"
+                             VerticalOptions="CenterAndExpand"
+                             HorizontalOptions="CenterAndExpand">
+                    <viewModels:MyLabel Text="Statystyki"
+                                        Opacity="0.8"
+                                        FontSize="40"
+                                        FontAttributes="Bold"
+                                        TextColor="LightCyan"
+                                        HorizontalOptions="CenterAndExpand"
+                                        VerticalOptions="EndAndExpand"/>
+                </StackLayout>
+                <viewModels:ImageButton VerticalOptions="StartAndExpand"
+                                        HorizontalOptions="EndAndExpand"
+                                        BitmapOptimizations="True"
+                                        Opacity="0.7"
+                                        Source="questionmark.png">
+                    <forms:CachedImage.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="PopupPage_OnClicked"
+                            NumberOfTapsRequired="1" />
+                    </forms:CachedImage.GestureRecognizers>
+                </viewModels:ImageButton>
+            </Grid>
+
+            <Grid Grid.Row="1" Padding="0" ColumnSpacing="4">
+                <ListView x:Name="ScoreTable"
+                          HasUnevenRows="True"
+                          ItemSelected="ScoreTable_OnItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate >
+                            <ViewCell >
+                                <ContentView Padding="5"  >
+                                    <StackLayout Orientation="Vertical">
+                                        <Frame BackgroundColor="#50FFFFFF"
+                                               Padding="4"
+                                               CornerRadius="20">
+                                            <Grid VerticalOptions="CenterAndExpand">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto"/>
+                                                    <RowDefinition Height="{Binding Score, Converter={StaticResource AddTextConverter2}}"/>
+                                                </Grid.RowDefinitions>
+                                                
+                                                    <Grid Grid.Row="0" VerticalOptions="CenterAndExpand">
+                                                        <Grid VerticalOptions="CenterAndExpand">
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="0.55*" />
+                                                            <ColumnDefinition Width="0.15*" />
+                                                            <ColumnDefinition Width="0.15*" />
+                                                            <ColumnDefinition Width="0.15*" />
+                                                        </Grid.ColumnDefinitions>
+                                                            
+                                                        <Grid Grid.Column="0">
+                                                            <viewModels:MyLabel Text="{Binding Nick}"
+                                                                                VerticalOptions="CenterAndExpand"
+                                                                                FontSize="30"
+                                                                                LineBreakMode="TailTruncation"
+                                                                                FontAttributes="Bold"
+                                                                                HorizontalOptions="CenterAndExpand"/>
+                                                        </Grid>
+                                                            
+                                                        <Grid Grid.Column="1">
+                                                            <forms:CachedImage Source="coins.png"
+                                                                               BitmapOptimizations="True"
+                                                                               HorizontalOptions="EndAndExpand"
+                                                                               VerticalOptions="CenterAndExpand"
+                                                                               Aspect ="AspectFit"/>
+                                                        </Grid>
+                                                            
+                                                        <Grid Grid.Column="2">
+                                                            <viewModels:MyLabel Text="{Binding Score }" 
+                                                                                x:Name="PlayerScore"
+                                                                                FontSize="30"
+                                                                                LineBreakMode="TailTruncation"
+                                                                                VerticalOptions="CenterAndExpand"
+                                                                                HorizontalOptions ="CenterAndExpand"
+                                                                                FontAttributes="Bold"/>
+                                                        </Grid>
+                                                            
+                                                        <Grid Grid.Column="3">
+                                                            <viewModels:MyLabel Text="{Binding DifferenceScore}" 
+                                                                                FontSize="30"
+                                                                                TextColor="{Binding MyTextColorCommand}"
+                                                                                LineBreakMode="TailTruncation"
+                                                                                VerticalOptions="CenterAndExpand"
+                                                                                HorizontalOptions ="CenterAndExpand"
+                                                                                FontAttributes="Bold"/>
+                                                        </Grid>
+                                                    </Grid>
+                                                        
+                                                    </Grid>
+                                                         <Grid Grid.Row="1"  >
+                                                             <viewModels:MyLabel Text="{Binding StatusCommand}"
+                                                                                 Opacity="0.8"
+                                                                                 FontSize="40"
+                                                                                 x:Name="StatusLabel"
+                                                                                 IsVisible="{Binding Score, Converter={StaticResource AddTextConverter}}"        
+                                                                                 TextColor="DarkRed"
+                                                                                 HorizontalOptions="CenterAndExpand"
+                                                                                 VerticalOptions="EndAndExpand">
+                                                        </viewModels:MyLabel>
+                                                    </Grid>
+                                            </Grid>
+                                        </Frame>
+                                    </StackLayout>
+                                </ContentView>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+
+            <Grid Grid.Row="2" >
+                <viewModels:ImageButton HorizontalOptions="EndAndExpand"
+                                        VerticalOptions="CenterAndExpand"
+                                        Opacity="0.8"
+                                        Aspect="AspectFill"
+                                        BitmapOptimizations="True"
+                                        ClassId="Back"
+                                        Source="bred.png">
+                    <forms:CachedImage.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="TapGestureRecognizer_OnTapped"
+                            NumberOfTapsRequired="1" />
+                    </forms:CachedImage.GestureRecognizers>
+                </viewModels:ImageButton>
+            </Grid>
+        </Grid>
+    </Grid>
+</ContentPage>
+<!--<Grid Grid.Column="4">
+                                                <forms:CachedImage Source="{Binding CancelString}"
+                                                                   x:Name="cancelImage"
+                                                                   Opacity="1.0"
+                                                                   VerticalOptions="CenterAndExpand"
+                                                                   HorizontalOptions ="CenterAndExpand"
+                                                                   ClassId="no">
+                                                    <forms:CachedImage.GestureRecognizers>
+                                                        <TapGestureRecognizer
+                                                            Command="{Binding ClickCommand}"
+                                                            CommandParameter="minus"
+                                                            NumberOfTapsRequired="1" />
+                                                    </forms:CachedImage.GestureRecognizers>
+                                                </forms:CachedImage>
+                                            </Grid>-->
